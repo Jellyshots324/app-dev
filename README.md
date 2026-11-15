@@ -14,3 +14,8 @@ I enjoy watching series and movies because they entertain me and teach me differ
 
 ## My Favorite Character
 My favorite character is Iron Man because he is intelligent, brave, and willing to sacrifice himself to save others.
+## My GitHub Learning Experience
+
+This is my first experience using GitHub.
+I learned how to create a repository, create a branch, and edit a README file.
+I am also learning how to create a pull request.
