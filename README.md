@@ -14,3 +14,14 @@ I enjoy watching series and movies because they entertain me and teach me differ
 
 ## My Favorite Character
 My favorite character is Iron Man because he is intelligent, brave, and willing to sacrifice himself to save others.
+
+
+# My Favorite Series
+
+My favorite series is Stranger Things.
+
+I like this series because it has an interesting story, exciting scenes, and amazing characters.
+
+## Why I Like It
+
+I enjoy watching this series because it entertains me and teaches me different lessons.
